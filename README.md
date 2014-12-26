@@ -1,4 +1,4 @@
-feedback
+feedback README
 ========
 
-feedback system built in meteor
+* Need to install Google OAuth plugin
